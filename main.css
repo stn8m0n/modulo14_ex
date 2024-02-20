@@ -15,7 +15,7 @@ body{
 #cabecalho .nav .nav-link,
 .navbar-brand,
 .navbar-brand:hover,
-.nav-cardapio .nav-link.active:hover {
+.nav-produto .nav-link.active:hover {
     color: #fff;
 }
 
@@ -27,7 +27,7 @@ body{
     font-family: pacifico, cursive;
 }
 
-#sobre-o-restaurante, #cardapio {
+#sobre-a-loja, #produto {
     background-color: #f7f7fcf8;
 }
 
@@ -35,13 +35,13 @@ body{
     color: #418ce1;
 }
 
-.nav-cardapio .nav-link.active,
+.nav-produto .nav-link.active,
 #fale-conosco button {
     background-color: #418ce1;
     color: #fff;
 }
 
-.nav-cardapio .nav-link:hover {
+.nav-produto .nav-link:hover {
     color: #418ce1;
 }
 
